@@ -25,7 +25,7 @@ section#featured-property p {
   margin: auto;
 }
 
-div {
+#details div {
   display: block;
   background-color: rgb(168,72,50);
   float: left;
